@@ -1,0 +1,11 @@
+{
+  "name": "MouseAimAssist",
+  "version_number": "1.2.0",
+  "website_url": "https://github.com/wexaaa/RoR2-MouseAimAssist",
+  "description": "Настраиваемая помощь в прицеливании для мыши в Risk of Rain 2.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2122",
+    "RiskofThunder-RoR2BepInExPack-1.46.0",
+    "Rune580-Risk_Of_Options-2.8.6"
+  ]
+}
